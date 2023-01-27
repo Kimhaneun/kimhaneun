@@ -33,7 +33,7 @@ ___
 
 ## Leegiwoo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoongi&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoongi00&show_icons=true&theme=graywhite)
 
 
 ## Im learning
