@@ -27,3 +27,24 @@ ___
 <img src="https://img.shields.io/badge/포켓몬스터_레츠고!_피카츄-000?style=flat-square&logo=Apple Arcade&logoColor=로고색"/>
 
 <img src="https://img.shields.io/badge/모여봐요_동물의_숲-000?style=flat-square&logo=Apple Arcade&logoColor=로고색"/>
+
+---
+
+
+## Leegiwoo
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoongi&show_icons=true&theme=graywhite)
+
+
+## Im learning
+<img src="https://img.shields.io/badge/C-A8B?style=flat-square&logo=C Sharp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-A8B?style=flat-square&logo=Apostrophe&logoColor=000"/>
+<img src="https://img.shields.io/badge/GitHub-A8B?style=flat-square&logo=Apostrophe&logoColor=000"/>
+
+---
+ ## Games
+ <img src="https://img.shields.io/badge/Genshin Impact-A8B?style=flat-square&logo=Apple Arcade&logoColor=black"/>
+ 
+<img src="https://img.shields.io/badge/Arknights-A8B?style=flat-square&logo=Apple Arcade&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Blue Achive-A8B?style=flat-square&logo=Apple Arcade&logoColor=black"/>
